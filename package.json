@@ -1,0 +1,22 @@
+{
+  "name": "qa-senai-challenge",
+  "version": "1.0.0",
+  "description": "Desafio técnico de QA com análise funcional, BDD e automação Cypress no portal de cursos do SENAI-SP",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [
+    "qa",
+    "cypress",
+    "bdd",
+    "teste",
+    "senai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^14.5.0"
+  }
+}
